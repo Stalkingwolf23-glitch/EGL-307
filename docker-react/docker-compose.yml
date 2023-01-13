@@ -10,7 +10,7 @@ services:
 
           context: .
 
-          dockerfile: Dockerfile
+          dockerfile: Dockerfile.dev
 
       ports:
 
